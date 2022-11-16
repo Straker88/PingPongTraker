@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Wed Nov 16 20:37:35 CET 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-81f2-5c4d-000001b540c0 
+on database directory memory:C:\Users\s.babu\Documents\GitHub\PingPongTraker\58c8aa72-e78d-44a8-a74b-f0a26ed1c036 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
+Loaded from file:/C:/Users/s.babu/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=17.0.5+8-LTS
+user.dir=C:\Users\s.babu\Documents\GitHub\PingPongTraker
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Nov 16 20:37:37 CET 2022:
+Shutting down instance a816c00e-0184-81f2-5c4d-000001b540c0 on database directory memory:C:\Users\s.babu\Documents\GitHub\PingPongTraker\58c8aa72-e78d-44a8-a74b-f0a26ed1c036 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1d44bcfa 
